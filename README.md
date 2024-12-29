@@ -3,4 +3,4 @@
 
 ## Desgin Database
 
-![Diagram Alur](images/database_design.jpg"Diagram Alur Proyek")
+![Diagram Alur](images/database_design.jpg "Diagram Alur Proyek")
