@@ -1,6 +1,6 @@
 # Test Praktek API Programmer
 
-Berikut untuk routing dari endpoint
+Berikut untuk routing dari endpoint dan Database design
 
 Users
 =======================================
